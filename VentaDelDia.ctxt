@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=VentaDelDia
+comment1.params=
+comment1.target=VentaDelDia()
+comment1.text=\r\n\ Constructor\ que\ inicializa\ una\ nueva\ venta\ del\ d\u00EDa\ con\ la\ fecha\ actual\r\n\ y\ una\ lista\ vac\u00EDa\ de\ boletos.\r\n
+comment2.params=boleto
+comment2.target=void\ registrarVentaBoleto(BoletoMuseo)
+comment2.text=\r\n\ Registra\ un\ boleto\ como\ vendido\ en\ este\ d\u00EDa.\r\n\r\n\ @param\ boleto\ el\ boleto\ que\ se\ ha\ vendido\r\n
+comment3.params=
+comment3.target=double\ calcularTotalVentaDelDia()
+comment3.text=\r\n\ Calcula\ el\ total\ de\ dinero\ recaudado\ en\ las\ ventas\ del\ d\u00EDa.\r\n\r\n\ @return\ la\ suma\ de\ los\ precios\ de\ todos\ los\ boletos\ vendidos\r\n
+comment4.params=
+comment4.target=java.lang.String\ establecerFechaDeLaVenta()
+comment4.text=\r\n\ Establece\ la\ fecha\ de\ la\ venta\ usando\ la\ fecha\ actual\ del\ sistema.\r\n\r\n\ @return\ la\ fecha\ actual\ en\ formato\ "yyyy-MM-dd"\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Devuelve\ una\ representaci\u00F3n\ legible\ de\ todas\ las\ ventas\ del\ d\u00EDa,\r\n\ incluyendo\ cantidad,\ detalles\ de\ cada\ boleto\ y\ total\ recaudado.\r\n\r\n\ @return\ una\ cadena\ con\ el\ resumen\ de\ la\ venta\ del\ d\u00EDa\r\n
+numComments=6
